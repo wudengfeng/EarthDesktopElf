@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/earth.jpg</file>
+        <file>resources/earth.ico</file>
+        <file>resources/earth.rc</file>
+    </qresource>
+</RCC>
